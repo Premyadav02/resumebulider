@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/resumebulider/static/css/main.7ee7f7db.css",
+    "main.js": "/resumebulider/static/js/main.6852505f.js",
+    "static/media/resume.svg": "/resumebulider/static/media/resume.747b0dd9d4a36a4fe054ab84b590ebfb.svg",
+    "index.html": "/resumebulider/index.html",
+    "main.7ee7f7db.css.map": "/resumebulider/static/css/main.7ee7f7db.css.map",
+    "main.6852505f.js.map": "/resumebulider/static/js/main.6852505f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee7f7db.css",
+    "static/js/main.6852505f.js"
+  ]
+}
